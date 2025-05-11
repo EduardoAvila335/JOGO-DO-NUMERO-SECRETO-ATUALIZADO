@@ -1,0 +1,52 @@
+
+    
+
+body{
+    background: url(2.jpg);
+}
+
+h1{
+    text-align: center;
+    font-family: cursive;
+    font-size: 3rem;
+    color: rgb(13, 69, 223);
+    
+}
+
+p{
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+div.input{
+    text-align: center;
+   
+}
+
+input{
+    /* width: 20rem; */
+    /* height: 30px; */
+    border-radius: 10px;
+    padding: 20PX;
+    border-color: rgb(0, 0, 0);
+    font-size: 15px;
+
+}
+
+button{
+    width: 17rem;
+    height: 4rem;
+    font-size: 2em;
+    border-radius: 10px;
+    background-color: rgb(13, 69, 223);
+    color: white;
+    border-color: black;
+    cursor: pointer;
+}
+
+::placeholder{
+    font-size: 1.3rem;
+}
+
